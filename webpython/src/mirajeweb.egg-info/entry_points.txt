@@ -1,0 +1,2 @@
+[console_scripts]
+mirajeweb = mirajeweb.cli:main
